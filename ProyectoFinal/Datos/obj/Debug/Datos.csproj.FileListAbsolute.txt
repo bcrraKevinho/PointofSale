@@ -1,0 +1,45 @@
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Datos\obj\Debug\Datos.pdb

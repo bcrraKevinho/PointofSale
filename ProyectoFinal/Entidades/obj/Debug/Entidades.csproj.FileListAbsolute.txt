@@ -1,0 +1,29 @@
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb

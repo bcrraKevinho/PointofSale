@@ -1,0 +1,72 @@
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Datos.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Datos.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\bin\Debug\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\obj\Debug\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Negocios\obj\Debug\Negocios.pdb
