@@ -1,0 +1,516 @@
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 2]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 3]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 4]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 5]\ProyectoFinal\Presentacion\bin\itextsharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\itextsharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 7]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\itextsharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 8]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Presentacion.dll.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Presentacion.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\csi.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Entidades.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\itextsharp.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Negocios.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\StrDatosSQL.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Entidades.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Negocios.pdb
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\dani_\Documents\UABC\AMBIENTES DE PROGRAMACION VISUAL\ProyectoFinal [version 9]\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb

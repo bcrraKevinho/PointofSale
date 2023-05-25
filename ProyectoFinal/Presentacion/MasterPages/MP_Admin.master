@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/PaginaBase.Master" AutoEventWireup="true" CodeBehind="MP_Admin.master.cs" Inherits="Presentacion.MasterPages.MP_Admin" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphContenedorBase" runat="server">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <asp:LinkButton ID="Logo" runat="server" CssClass="navbar-brand w-auto pr-5" OnClick="Logo_Click" CausesValidation="False">
+                <img src="../IMG/logo.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+                ABARROTES EMMANUEL
+            </asp:LinkButton>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse pl-2" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <asp:LinkButton ID="Inicio" runat="server" CssClass="nav-link active" OnClick="Inicio_Click" CausesValidation="False">Inicio&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="GProducto" runat="server" CssClass="nav-link active" OnClick="GProducto_Click" CausesValidation="False">G. Productos</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="GCliente" runat="server" CssClass="nav-link active" OnClick="GCliente_Click" CausesValidation="False">G. Clientes</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="Ventas" runat="server" CssClass="nav-link active" aria-current="page" OnClick="Ventas_Click" CausesValidation="False">Ventas</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="Inventario" runat="server" CssClass="nav-link active" aria-current="page" OnClick="Inventario_Click" CausesValidation="False">Inventario</asp:LinkButton>
+                    </li>
+                </ul>
+                <div>
+                    <asp:LinkButton ID="BtnCerrarSesion" CssClass="btn btn-outline-dark" runat="server" Text="" OnClick="BtnCerrarSesion_Click" ToolTip="CerrarSesión" CausesValidation="False"><i class="fas fa-sign-out-alt"></i> </asp:LinkButton>
+                </div>
+            </div>
+        </div>
+        <asp:Label ID="lbNav" runat="server" Text=""></asp:Label>
+    </nav>
+<%--    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>--%>
+<%--    <script src="../JS/bootstrap.min.js"></script>--%>
+
+    <asp:ContentPlaceHolder ID="cphAdmin" runat="server">
+    </asp:ContentPlaceHolder>
+
+</asp:Content>

@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/PaginaBase.Master" AutoEventWireup="true" CodeBehind="MP_Inicio.master.cs" Inherits="Presentacion.MasterPages.MP_Inicio" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphContenedorBase" runat="server">
+    
+    <asp:ContentPlaceHolder ID="cphInicio" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</asp:Content>
