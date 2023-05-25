@@ -1,0 +1,3 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="wucContraseñaRequerida.ascx.cs" Inherits="Presentacion.Controls.wucContraseñaRequerida" %>
+<asp:TextBox ID="TbContraseñaRequerida" runat="server" CssClass="form-control" ToolTip="Distingue mayúsculas y minúsculas" TextMode="singleLine"></asp:TextBox>
+<asp:RequiredFieldValidator ID="rfvTbContraseñaRequerida" runat="server" ErrorMessage="Capture Dato" CssClass="text-danger font-italic" ControlToValidate="TbContraseñaRequerida" Display="Dynamic"></asp:RequiredFieldValidator>
